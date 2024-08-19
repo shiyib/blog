@@ -1,5 +1,6 @@
 
 vscode配置python环境
+```
 {
 "configurations": [
         {
@@ -12,4 +13,4 @@ vscode配置python环境
         }
 ]
 }
-
+```

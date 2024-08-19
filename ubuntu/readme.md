@@ -1,5 +1,6 @@
-ubuntu
 
+ubuntu
+```
 1. 新装无法使用su，需要设置root密码
 `sudo passwd`
 
@@ -15,15 +16,12 @@ https://cloud.tencent.com/developer/article/2417968
 5. 安装vscode
 
 锁屏
-
 访问共享文件夹
-
 wps安装
 更新python3
 
+微信？qq?xrdp
 
-微信？qq?
-
-
+```
 
 
